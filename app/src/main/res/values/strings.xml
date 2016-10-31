@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Certificacion</string>
+    <string name="TITULOAPP">Mi Aplicación</string>
+    <string name="textoapp">Aprendiendo a realizar aplicaciones para diferentes tamaños</string>
+</resources>
